@@ -9,7 +9,8 @@ Perangkat Lunak ini dikembangkan menggunakan:
   * Relational database menggunakan MySQL
   * CSS Bootstrap untuk tampilan
   * JQuery untuk Client Side
-Framework yang digunakan disini bukanlah framework yang handal karena dibuat sendiri namun cukup untuk membangun sebuah aplikasi seperti Taxi Information System ini.
+
+  Framework yang digunakan disini bukanlah framework yang handal karena dibuat sendiri namun cukup untuk membangun sebuah aplikasi seperti Taxi Information System ini.
 
 ## Instalasi
 Pastikan anda telah memiliki
